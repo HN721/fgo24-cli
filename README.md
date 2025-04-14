@@ -81,3 +81,18 @@ d-----         4/14/2025  11:26 AM                latihan5.txt
 ```cmd
 rmdir "latihan4.txt"
 ```
+
+## LOOPING LAGU
+
+````cmd
+# With Loop
+
+```cmd
+mkdir "Blackpink"
+mkdir "Evanescence"
+mkdir "Linkin Park"
+for %a in (Blackpink, Evanescence, "Linkin Park") do move "%a -*" "%a\"
+
+
+
+````
