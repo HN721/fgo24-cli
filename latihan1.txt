@@ -1,0 +1,17 @@
+mkdir "Latihan CLI Dasar"
+Mmebuat Folder Latihan  Cli Dasar
+type con > "latihan1.txt"
+type con >  "latihan2.txt"
+type con > "latihan3.txt"
+type con > "latihan4.txt"
+type con >  "latihan5.txt"
+Membuat File kosong  LatihanX sebanyak 5 Kali
+dir
+melihat daftar file yang dbuat
+rmdir "latihan5.txt"
+menghapus file urutan 5
+mkdir "latihan5.txt"
+dir
+melihat folder yang dibuat
+rmdir "latihan4.txt"
+menghapus folder dengan nama "latihan4.txt"
