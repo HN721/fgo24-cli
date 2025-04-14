@@ -84,8 +84,8 @@ rmdir "latihan4.txt"
 
 ## LOOPING LAGU
 
-````cmd
-# With Loop
+
+
 
 ```cmd
 mkdir "Blackpink"
